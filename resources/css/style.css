@@ -10,17 +10,28 @@ body{
     font-weight: bold;
     font-size: 70px;
 }
-.hero p{
-    font-size: 18px;
-}
-.process h2{
+.content h2{
     font-size: 32px;
     font-weight: bold;
 }
-.process h3{
+.content h3{
     font-size: 23px;
     font-weight: bold;
 }
-.process p{
+.content p{
     font-size: 14px;
+}
+.info-sp{
+    font-size: 23px;
+    font-weight: bold;
+}
+.footer{
+    font-size: 11px;
+    background-color: dimgray;
+    color: white;
+    text-align: left;
+}
+.link-btn{
+    font-size: 18px;
+    color: white;
 }
