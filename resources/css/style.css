@@ -2,3 +2,25 @@ body{
     font-family: Helvetica;
     text-align: center;
 }
+.hero{
+    color: white;
+    background-image: url('../images/the-flatiron-building.png');
+}
+.hero h1{
+    font-weight: bold;
+    font-size: 70px;
+}
+.hero p{
+    font-size: 18px;
+}
+.process h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+.process h3{
+    font-size: 23px;
+    font-weight: bold;
+}
+.process p{
+    font-size: 14px;
+}
